@@ -1,0 +1,4 @@
+# ignore upload folder
+/wp-content/uploads
+/wp-includes
+/wp-admin

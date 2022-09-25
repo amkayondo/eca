@@ -1,0 +1,8 @@
+[13-Apr-2022 17:31:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mfn_opts_get() in /home/s4agjwb6vh9e/public_html/wp-content/themes/betheme/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s4agjwb6vh9e/public_html/wp-content/themes/betheme/404.php on line 10
+[14-Apr-2022 19:38:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mfn_opts_get() in /home/s4agjwb6vh9e/public_html/wp-content/themes/betheme/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/s4agjwb6vh9e/public_html/wp-content/themes/betheme/404.php on line 10
