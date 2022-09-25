@@ -1,0 +1,308 @@
+2022-09-25T06:56:37+00:00 CRITICAL Uncaught Error: Call to undefined function PUREHEARTSPLUGIN\Element\purehearts_get_sidebars() in H:\OpenServer\htdocs\eca\wp-content\plugins\purehearts-plugin\elementor\event_list_view.php:96
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\controls-stack.php(2308): PUREHEARTSPLUGIN\Element\Event_List_View->_register_controls()
+#1 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\controls-stack.php(496): Elementor\Controls_Stack->init_controls()
+#2 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#3 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\managers\widgets.php(351): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#7 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#8 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#9 H:\OpenServer\htdocs\eca\wp-admin\admin-ajax.php(187): do_action('wp_ajax_element...')
+#10 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\plugins\purehearts-plugin\elementor\event_list_view.php on line 96
+
+2022-09-25T06:58:06+00:00 CRITICAL Uncaught Error: Call to undefined function PUREHEARTSPLUGIN\Element\purehearts_get_sidebars() in H:\OpenServer\htdocs\eca\wp-content\plugins\purehearts-plugin\elementor\event_list_view.php:96
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\controls-stack.php(2308): PUREHEARTSPLUGIN\Element\Event_List_View->_register_controls()
+#1 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\controls-stack.php(496): Elementor\Controls_Stack->init_controls()
+#2 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#3 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\managers\widgets.php(351): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#7 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#8 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#9 H:\OpenServer\htdocs\eca\wp-admin\admin-ajax.php(187): do_action('wp_ajax_element...')
+#10 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\plugins\purehearts-plugin\elementor\event_list_view.php on line 96
+
+2022-09-25T07:01:05+00:00 CRITICAL Uncaught Error: Call to undefined function PUREHEARTSPLUGIN\Element\purehearts_get_sidebars() in H:\OpenServer\htdocs\eca\wp-content\plugins\purehearts-plugin\elementor\event_list_view.php:96
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\controls-stack.php(2308): PUREHEARTSPLUGIN\Element\Event_List_View->_register_controls()
+#1 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\controls-stack.php(496): Elementor\Controls_Stack->init_controls()
+#2 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#3 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\managers\widgets.php(351): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#7 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#8 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#9 H:\OpenServer\htdocs\eca\wp-admin\admin-ajax.php(187): do_action('wp_ajax_element...')
+#10 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\plugins\purehearts-plugin\elementor\event_list_view.php on line 96
+
+2022-09-25T07:05:17+00:00 CRITICAL Uncaught Error: Call to undefined function PUREHEARTSPLUGIN\Element\purehearts_get_sidebars() in H:\OpenServer\htdocs\eca\wp-content\plugins\purehearts-plugin\elementor\event_list_view.php:96
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\controls-stack.php(2308): PUREHEARTSPLUGIN\Element\Event_List_View->_register_controls()
+#1 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\controls-stack.php(496): Elementor\Controls_Stack->init_controls()
+#2 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#3 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\managers\widgets.php(351): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_get_widget_types_controls_config(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#7 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#8 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#9 H:\OpenServer\htdocs\eca\wp-admin\admin-ajax.php(187): do_action('wp_ajax_element...')
+#10 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\plugins\purehearts-plugin\elementor\event_list_view.php on line 96
+
+2022-09-25T07:52:41+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood/widgets/fgood-intro.php' (include_path='H:\OpenServer\php\PEAR') in H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood\plugin.php:76
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood\plugin.php(94): Forgood\Plugin->include_widgets_files()
+#1 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): Forgood\Plugin->register_widgets(Object(Elementor\Widgets_Manager))
+#2 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(524): WP_Hook->do_action(Array)
+#4 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\dev-tools\deprecation.php(331): do_action_ref_array('elementor/widge...', Array)
+#5 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\managers\widgets.php(107): Elementor\Modules\DevTools\Deprecation->do_deprecated_action('elementor/widge...', Array, '3.5.0', 'elementor/widge...')
+#6 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\managers\widgets.php(310): Elementor\Widgets_Manager->init_widgets()
+#7 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\elements\column.php(1044): Elementor\Widgets_Manager->get_widget_types('html')
+#8 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(847): Elementor\Element_Column->_get_default_child_type(Array)
+#9 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(338): Elementor\Element_Base->get_child_type(Array)
+#10 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(892): Elementor\Element_Base->add_child(Array)
+#11 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(298): Elementor\Element_Base->init_children()
+#12 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(786): Elementor\Element_Base->get_children()
+#13 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Element_Base->print_content()
+#14 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(787): Elementor\Element_Base->print_element()
+#15 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Element_Base->print_content()
+#16 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\core\base\document.php(1635): Elementor\Element_Base->print_element()
+#17 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\core\base\document.php(1086): Elementor\Core\Base\Document->print_elements(Array)
+#18 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\frontend.php(1092): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#19 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\frontend.php(1006): Elementor\Frontend->get_builder_content(415)
+#20 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): Elementor\Frontend->apply_builder_in_content('[rev_slider ali...')
+#21 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(191): WP_Hook->apply_filters('[rev_slider ali...', Array)
+#22 H:\OpenServer\htdocs\eca\wp-includes\post-template.php(253): apply_filters('the_content', '[rev_slider ali...')
+#23 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\page-templates\module.php(190): the_content()
+#24 [internal function]: Elementor\Modules\PageTemplates\Module->print_callback()
+#25 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\page-templates\module.php(207): call_user_func(Array)
+#26 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(19): Elementor\Modules\PageTemplates\Module->print_content()
+#27 H:\OpenServer\htdocs\eca\wp-includes\template-loader.php(106): include('H:\\OpenServer\\h...')
+#28 H:\OpenServer\htdocs\eca\wp-blog-header.php(19): require_once('H:\\OpenServer\\h...')
+#29 H:\OpenServer\htdocs\eca\index.php(17): require('H:\\OpenServer\\h...')
+#30 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood\plugin.php on line 76
+
+2022-09-25T07:53:34+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood/widgets/fgood-intro.php' (include_path='H:\OpenServer\php\PEAR') in H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood\plugin.php:76
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood\plugin.php(94): Forgood\Plugin->include_widgets_files()
+#1 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): Forgood\Plugin->register_widgets(Object(Elementor\Widgets_Manager))
+#2 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(524): WP_Hook->do_action(Array)
+#4 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\dev-tools\deprecation.php(331): do_action_ref_array('elementor/widge...', Array)
+#5 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\managers\widgets.php(107): Elementor\Modules\DevTools\Deprecation->do_deprecated_action('elementor/widge...', Array, '3.5.0', 'elementor/widge...')
+#6 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\managers\widgets.php(310): Elementor\Widgets_Manager->init_widgets()
+#7 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\elements\column.php(1044): Elementor\Widgets_Manager->get_widget_types('html')
+#8 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(847): Elementor\Element_Column->_get_default_child_type(Array)
+#9 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(338): Elementor\Element_Base->get_child_type(Array)
+#10 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(892): Elementor\Element_Base->add_child(Array)
+#11 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(298): Elementor\Element_Base->init_children()
+#12 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(786): Elementor\Element_Base->get_children()
+#13 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Element_Base->print_content()
+#14 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(787): Elementor\Element_Base->print_element()
+#15 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Element_Base->print_content()
+#16 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\core\base\document.php(1635): Elementor\Element_Base->print_element()
+#17 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\core\base\document.php(1086): Elementor\Core\Base\Document->print_elements(Array)
+#18 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\frontend.php(1092): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#19 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\frontend.php(1006): Elementor\Frontend->get_builder_content(415)
+#20 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): Elementor\Frontend->apply_builder_in_content('[rev_slider ali...')
+#21 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(191): WP_Hook->apply_filters('[rev_slider ali...', Array)
+#22 H:\OpenServer\htdocs\eca\wp-includes\post-template.php(253): apply_filters('the_content', '[rev_slider ali...')
+#23 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\page-templates\module.php(190): the_content()
+#24 [internal function]: Elementor\Modules\PageTemplates\Module->print_callback()
+#25 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\page-templates\module.php(207): call_user_func(Array)
+#26 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(19): Elementor\Modules\PageTemplates\Module->print_content()
+#27 H:\OpenServer\htdocs\eca\wp-includes\template-loader.php(106): include('H:\\OpenServer\\h...')
+#28 H:\OpenServer\htdocs\eca\wp-blog-header.php(19): require_once('H:\\OpenServer\\h...')
+#29 H:\OpenServer\htdocs\eca\index.php(17): require('H:\\OpenServer\\h...')
+#30 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood\plugin.php on line 76
+
+2022-09-25T07:54:00+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood/widgets/fgood-intro.php' (include_path='H:\OpenServer\php\PEAR') in H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood\plugin.php:76
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood\plugin.php(94): Forgood\Plugin->include_widgets_files()
+#1 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): Forgood\Plugin->register_widgets(Object(Elementor\Widgets_Manager))
+#2 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(524): WP_Hook->do_action(Array)
+#4 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\dev-tools\deprecation.php(331): do_action_ref_array('elementor/widge...', Array)
+#5 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\managers\widgets.php(107): Elementor\Modules\DevTools\Deprecation->do_deprecated_action('elementor/widge...', Array, '3.5.0', 'elementor/widge...')
+#6 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\managers\widgets.php(310): Elementor\Widgets_Manager->init_widgets()
+#7 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\elements\column.php(1044): Elementor\Widgets_Manager->get_widget_types('html')
+#8 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(847): Elementor\Element_Column->_get_default_child_type(Array)
+#9 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(338): Elementor\Element_Base->get_child_type(Array)
+#10 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(892): Elementor\Element_Base->add_child(Array)
+#11 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(298): Elementor\Element_Base->init_children()
+#12 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(786): Elementor\Element_Base->get_children()
+#13 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Element_Base->print_content()
+#14 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(787): Elementor\Element_Base->print_element()
+#15 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Element_Base->print_content()
+#16 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\core\base\document.php(1635): Elementor\Element_Base->print_element()
+#17 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\core\base\document.php(1086): Elementor\Core\Base\Document->print_elements(Array)
+#18 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\frontend.php(1092): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#19 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\frontend.php(1006): Elementor\Frontend->get_builder_content(415)
+#20 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): Elementor\Frontend->apply_builder_in_content('[rev_slider ali...')
+#21 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(191): WP_Hook->apply_filters('[rev_slider ali...', Array)
+#22 H:\OpenServer\htdocs\eca\wp-includes\post-template.php(253): apply_filters('the_content', '[rev_slider ali...')
+#23 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\page-templates\module.php(190): the_content()
+#24 [internal function]: Elementor\Modules\PageTemplates\Module->print_callback()
+#25 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\page-templates\module.php(207): call_user_func(Array)
+#26 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(19): Elementor\Modules\PageTemplates\Module->print_content()
+#27 H:\OpenServer\htdocs\eca\wp-includes\template-loader.php(106): include('H:\\OpenServer\\h...')
+#28 H:\OpenServer\htdocs\eca\wp-blog-header.php(19): require_once('H:\\OpenServer\\h...')
+#29 H:\OpenServer\htdocs\eca\index.php(17): require('H:\\OpenServer\\h...')
+#30 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood\plugin.php on line 76
+
+2022-09-25T07:57:13+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in H:\OpenServer\htdocs\eca\wp-content\plugins\give\includes\misc-functions.php:2293
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-content\plugins\give\includes\shortcodes.php(347): give_display_donation_receipt('')
+#1 H:\OpenServer\htdocs\eca\wp-includes\shortcodes.php(356): give_receipt_shortcode('', '', 'give_receipt')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 H:\OpenServer\htdocs\eca\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(give_r...', 'do_shortcode_ta...', '[give_receipt]')
+#4 H:\OpenServer\htdocs\eca\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Shortcodes.php(136): do_shortcode('[give_receipt]')
+#5 H:\OpenServer\htdocs\eca\wp-content\plugins\all-in-one-seo-pack\app\Common\Traits\Helpers\Shortcodes.php(70): AIOSEO\Plugin\Common\Utils\Helpers->doShortcodesHelper('[give_receipt]', Array, 475)
+#6 H:\OpenServer\htdocs\eca\wp-content\plugins\all-in-one-seo-pack\app\Common\Sitemap\Image\Image.php(267): AIOSEO\Plugin\Common\Utils\Helpers->doShortcodes('[give_receipt]', true, 475)
+#7 H:\OpenServer\htdocs\eca\wp-content\plugins\all-in-one-seo-pack\app\Common\Sitemap\Image\Image.php(171): AIOSEO\Plugin\Common\Sitemap\Image\Image->extract()
+#8 H:\OpenServer\htdocs\eca\wp-content\plugins\all-in-one-seo-pack\app\Common\Sitemap\Image\Image.php(131): AIOSEO\Plugin\Common\Sitemap\Image\Image->scanPost(Object(stdClass))
+#9 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): AIOSEO\Plugin\Common\Sitemap\Image\Image->scanPosts()
+#10 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#11 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(524): WP_Hook->do_action(Array)
+#12 H:\OpenServer\htdocs\eca\wp-content\plugins\all-in-one-seo-pack\vendor\woocommerce\action-scheduler\classes\actions\ActionScheduler_Action.php(22): do_action_ref_array('aioseo_image_si...', Array)
+#13 H:\OpenServer\htdocs\eca\wp-content\plugins\all-in-one-seo-pack\vendor\woocommerce\action-scheduler\classes\abstracts\ActionScheduler_Abstract_QueueRunner.php(65): ActionScheduler_Action->execute()
+#14 H:\OpenServer\htdocs\eca\wp-content\plugins\all-in-one-seo-pack\vendor\woocommerce\action-scheduler\classes\ActionScheduler_QueueRunner.php(162): ActionScheduler_Abstract_QueueRunner->process_action(52, 'Async Request')
+#15 H:\OpenServer\htdocs\eca\wp-content\plugins\all-in-one-seo-pack\vendor\woocommerce\action-scheduler\classes\ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'Async Request')
+#16 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): ActionScheduler_QueueRunner->run('Async Request')
+#17 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#18 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#19 H:\OpenServer\htdocs\eca\wp-content\plugins\all-in-one-seo-pack\vendor\woocommerce\action-scheduler\classes\ActionScheduler_AsyncRequest_QueueRunner.php(52): do_action('action_schedule...', 'Async Request')
+#20 H:\OpenServer\htdocs\eca\wp-content\plugins\woocommerce\includes\libraries\wp-async-request.php(147): ActionScheduler_AsyncRequest_QueueRunner->handle()
+#21 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): WP_Async_Request->maybe_handle('')
+#22 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#23 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#24 H:\OpenServer\htdocs\eca\wp-admin\admin-ajax.php(187): do_action('wp_ajax_as_asyn...')
+#25 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\plugins\give\includes\misc-functions.php on line 2293
+
+2022-09-25T07:58:07+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood/widgets/fgood-intro.php' (include_path='H:\OpenServer\php\PEAR') in H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood\plugin.php:76
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood\plugin.php(94): Forgood\Plugin->include_widgets_files()
+#1 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): Forgood\Plugin->register_widgets(Object(Elementor\Widgets_Manager))
+#2 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(524): WP_Hook->do_action(Array)
+#4 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\dev-tools\deprecation.php(331): do_action_ref_array('elementor/widge...', Array)
+#5 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\managers\widgets.php(107): Elementor\Modules\DevTools\Deprecation->do_deprecated_action('elementor/widge...', Array, '3.5.0', 'elementor/widge...')
+#6 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\managers\widgets.php(310): Elementor\Widgets_Manager->init_widgets()
+#7 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\elements\column.php(1044): Elementor\Widgets_Manager->get_widget_types('html')
+#8 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(847): Elementor\Element_Column->_get_default_child_type(Array)
+#9 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(338): Elementor\Element_Base->get_child_type(Array)
+#10 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(892): Elementor\Element_Base->add_child(Array)
+#11 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(298): Elementor\Element_Base->init_children()
+#12 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(786): Elementor\Element_Base->get_children()
+#13 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Element_Base->print_content()
+#14 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(787): Elementor\Element_Base->print_element()
+#15 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\base\element-base.php(447): Elementor\Element_Base->print_content()
+#16 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\core\base\document.php(1635): Elementor\Element_Base->print_element()
+#17 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\core\base\document.php(1086): Elementor\Core\Base\Document->print_elements(Array)
+#18 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\frontend.php(1092): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#19 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\includes\frontend.php(1006): Elementor\Frontend->get_builder_content(415)
+#20 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): Elementor\Frontend->apply_builder_in_content('[rev_slider ali...')
+#21 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(191): WP_Hook->apply_filters('[rev_slider ali...', Array)
+#22 H:\OpenServer\htdocs\eca\wp-includes\post-template.php(253): apply_filters('the_content', '[rev_slider ali...')
+#23 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\page-templates\module.php(190): the_content()
+#24 [internal function]: Elementor\Modules\PageTemplates\Module->print_callback()
+#25 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\page-templates\module.php(207): call_user_func(Array)
+#26 H:\OpenServer\htdocs\eca\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(19): Elementor\Modules\PageTemplates\Module->print_content()
+#27 H:\OpenServer\htdocs\eca\wp-includes\template-loader.php(106): include('H:\\OpenServer\\h...')
+#28 H:\OpenServer\htdocs\eca\wp-blog-header.php(19): require_once('H:\\OpenServer\\h...')
+#29 H:\OpenServer\htdocs\eca\index.php(17): require('H:\\OpenServer\\h...')
+#30 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\plugins\el-addons-forgood\plugin.php on line 76
+
+2022-09-25T08:00:16+00:00 CRITICAL Uncaught Error: Call to undefined function nonprofit_organization_tgmpa() in H:\OpenServer\htdocs\eca\wp-content\themes\nonprofit-organization\core\includes\tgm.php:18
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): nonprofit_organization_register_recommended_plugins('')
+#1 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 H:\OpenServer\htdocs\eca\wp-content\plugins\academy-starter-templates\includes\library\tgm-plugin-activation.php(399): do_action('tgmpa_register')
+#4 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): TGM_Plugin_Activation->init('')
+#5 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#7 H:\OpenServer\htdocs\eca\wp-settings.php(598): do_action('init')
+#8 H:\OpenServer\htdocs\eca\wp-config.php(96): require_once('H:\\OpenServer\\h...')
+#9 H:\OpenServer\htdocs\eca\wp-load.php(50): require_once('H:\\OpenServer\\h...')
+#10 H:\OpenServer\htdocs\eca\wp-admin\admin.php(34): require_once('H:\\OpenServer\\h...')
+#11 H:\OpenServer\htdocs\eca\wp-admin\themes.php(10): require_once('H:\\OpenServer\\h...')
+#12 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\themes\nonprofit-organization\core\includes\tgm.php on line 18
+
+2022-09-25T08:00:30+00:00 CRITICAL Uncaught Error: Call to undefined function nonprofit_organization_tgmpa() in H:\OpenServer\htdocs\eca\wp-content\themes\nonprofit-organization\core\includes\tgm.php:18
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): nonprofit_organization_register_recommended_plugins('')
+#1 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 H:\OpenServer\htdocs\eca\wp-content\plugins\academy-starter-templates\includes\library\tgm-plugin-activation.php(399): do_action('tgmpa_register')
+#4 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): TGM_Plugin_Activation->init('')
+#5 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#7 H:\OpenServer\htdocs\eca\wp-settings.php(598): do_action('init')
+#8 H:\OpenServer\htdocs\eca\wp-config.php(96): require_once('H:\\OpenServer\\h...')
+#9 H:\OpenServer\htdocs\eca\wp-load.php(50): require_once('H:\\OpenServer\\h...')
+#10 H:\OpenServer\htdocs\eca\wp-admin\admin.php(34): require_once('H:\\OpenServer\\h...')
+#11 H:\OpenServer\htdocs\eca\wp-admin\theme-install.php(10): require_once('H:\\OpenServer\\h...')
+#12 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\themes\nonprofit-organization\core\includes\tgm.php on line 18
+
+2022-09-25T08:00:35+00:00 CRITICAL Uncaught Error: Call to undefined function nonprofit_organization_tgmpa() in H:\OpenServer\htdocs\eca\wp-content\themes\nonprofit-organization\core\includes\tgm.php:18
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): nonprofit_organization_register_recommended_plugins('')
+#1 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 H:\OpenServer\htdocs\eca\wp-content\plugins\academy-starter-templates\includes\library\tgm-plugin-activation.php(399): do_action('tgmpa_register')
+#4 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): TGM_Plugin_Activation->init('')
+#5 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#7 H:\OpenServer\htdocs\eca\wp-settings.php(598): do_action('init')
+#8 H:\OpenServer\htdocs\eca\wp-config.php(96): require_once('H:\\OpenServer\\h...')
+#9 H:\OpenServer\htdocs\eca\wp-load.php(50): require_once('H:\\OpenServer\\h...')
+#10 H:\OpenServer\htdocs\eca\wp-admin\admin.php(34): require_once('H:\\OpenServer\\h...')
+#11 H:\OpenServer\htdocs\eca\wp-admin\index.php(10): require_once('H:\\OpenServer\\h...')
+#12 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\themes\nonprofit-organization\core\includes\tgm.php on line 18
+
+2022-09-25T08:03:29+00:00 CRITICAL Uncaught Error: Call to undefined function nonprofit_organization_tgmpa() in H:\OpenServer\htdocs\eca\wp-content\themes\nonprofit-organization\core\includes\tgm.php:18
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): nonprofit_organization_register_recommended_plugins('')
+#1 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 H:\OpenServer\htdocs\eca\wp-content\plugins\academy-starter-templates\includes\library\tgm-plugin-activation.php(399): do_action('tgmpa_register')
+#4 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): TGM_Plugin_Activation->init('')
+#5 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#7 H:\OpenServer\htdocs\eca\wp-settings.php(598): do_action('init')
+#8 H:\OpenServer\htdocs\eca\wp-config.php(96): require_once('H:\\OpenServer\\h...')
+#9 H:\OpenServer\htdocs\eca\wp-load.php(50): require_once('H:\\OpenServer\\h...')
+#10 H:\OpenServer\htdocs\eca\wp-admin\admin.php(34): require_once('H:\\OpenServer\\h...')
+#11 H:\OpenServer\htdocs\eca\wp-admin\themes.php(10): require_once('H:\\OpenServer\\h...')
+#12 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\themes\nonprofit-organization\core\includes\tgm.php on line 18
+
+2022-09-25T09:16:06+00:00 CRITICAL Uncaught TypeError: ksort(): Argument #1 ($array) must be of type array, null given in H:\OpenServer\htdocs\eca\wp-content\themes\betheme\visual-builder\visual-builder.php:306
+Stack trace:
+#0 H:\OpenServer\htdocs\eca\wp-content\themes\betheme\visual-builder\visual-builder.php(306): ksort(NULL)
+#1 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(307): mfnvb_set_revision('')
+#2 H:\OpenServer\htdocs\eca\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 H:\OpenServer\htdocs\eca\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#4 H:\OpenServer\htdocs\eca\wp-admin\admin-ajax.php(187): do_action('wp_ajax_setrevi...')
+#5 {main}
+  thrown in H:\OpenServer\htdocs\eca\wp-content\themes\betheme\visual-builder\visual-builder.php on line 306
+

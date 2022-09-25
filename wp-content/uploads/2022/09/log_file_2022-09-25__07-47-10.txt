@@ -1,0 +1,137 @@
+
+---Downloaded files---
+The import files for: Home 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/eca
+Data file = H:\OpenServer\htdocs\eca/wp-content/uploads/2022/09/demo-content-import-file_2022-09-25__07-47-10.xml
+Widget file = H:\OpenServer\htdocs\eca/wp-content/uploads/2022/09/demo-widgets-import-file_2022-09-25__07-47-10.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "money1" (Media)
+[ERROR] Failed to import "blood" (Media)
+[ERROR] Failed to import "candle" (Media)
+[ERROR] Failed to import "donor" (Media)
+[ERROR] Failed to import "hospital" (Media)
+[ERROR] Failed to import "house" (Media)
+[ERROR] Failed to import "scholarship" (Media)
+[ERROR] Failed to import "skull" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "money1" (Media)
+[ERROR] Failed to import "blood" (Media)
+[ERROR] Failed to import "candle" (Media)
+[ERROR] Failed to import "donor" (Media)
+[ERROR] Failed to import "hospital" (Media)
+[ERROR] Failed to import "house" (Media)
+[ERROR] Failed to import "scholarship" (Media)
+[ERROR] Failed to import "skull" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "money1" (Media)
+[ERROR] Failed to import "blood" (Media)
+[ERROR] Failed to import "candle" (Media)
+[ERROR] Failed to import "donor" (Media)
+[ERROR] Failed to import "hospital" (Media)
+[ERROR] Failed to import "house" (Media)
+[ERROR] Failed to import "scholarship" (Media)
+[ERROR] Failed to import "skull" (Media)
+[ERROR] Failed to import "doug-linstedt-jEEYZsaxbH4-unsplash" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "money1" (Media)
+[ERROR] Failed to import "blood" (Media)
+[ERROR] Failed to import "candle" (Media)
+[ERROR] Failed to import "donor" (Media)
+[ERROR] Failed to import "hospital" (Media)
+[ERROR] Failed to import "house" (Media)
+[ERROR] Failed to import "scholarship" (Media)
+[ERROR] Failed to import "skull" (Media)
+[ERROR] Failed to import "doug-linstedt-jEEYZsaxbH4-unsplash" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "money1" (Media)
+[ERROR] Failed to import "blood" (Media)
+[ERROR] Failed to import "candle" (Media)
+[ERROR] Failed to import "donor" (Media)
+[ERROR] Failed to import "hospital" (Media)
+[ERROR] Failed to import "house" (Media)
+[ERROR] Failed to import "scholarship" (Media)
+[ERROR] Failed to import "skull" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "money1" (Media)
+[ERROR] Failed to import "blood" (Media)
+[ERROR] Failed to import "candle" (Media)
+[ERROR] Failed to import "donor" (Media)
+[ERROR] Failed to import "hospital" (Media)
+[ERROR] Failed to import "house" (Media)
+[ERROR] Failed to import "scholarship" (Media)
+[ERROR] Failed to import "skull" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "money1" (Media)
+[ERROR] Failed to import "blood" (Media)
+[ERROR] Failed to import "candle" (Media)
+[ERROR] Failed to import "donor" (Media)
+[ERROR] Failed to import "hospital" (Media)
+[ERROR] Failed to import "house" (Media)
+[ERROR] Failed to import "scholarship" (Media)
+[ERROR] Failed to import "skull" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "money1" (Media)
+[ERROR] Failed to import "blood" (Media)
+[ERROR] Failed to import "candle" (Media)
+[ERROR] Failed to import "donor" (Media)
+[ERROR] Failed to import "hospital" (Media)
+[ERROR] Failed to import "house" (Media)
+[ERROR] Failed to import "scholarship" (Media)
+[ERROR] Failed to import "skull" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "money1" (Media)
+[ERROR] Failed to import "blood" (Media)
+[ERROR] Failed to import "candle" (Media)
+[ERROR] Failed to import "donor" (Media)
+[ERROR] Failed to import "hospital" (Media)
+[ERROR] Failed to import "house" (Media)
+[ERROR] Failed to import "scholarship" (Media)
+[ERROR] Failed to import "skull" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "money1" (Media)
+[ERROR] Failed to import "blood" (Media)
+[ERROR] Failed to import "candle" (Media)
+[ERROR] Failed to import "donor" (Media)
+[ERROR] Failed to import "hospital" (Media)
+[ERROR] Failed to import "house" (Media)
+[ERROR] Failed to import "scholarship" (Media)
+[ERROR] Failed to import "skull" (Media)
+
